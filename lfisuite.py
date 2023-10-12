@@ -3316,7 +3316,7 @@ def scanner():
 
         if(status_code == 200):
 
-            if ("[<a href='function.main'>function.main</a>" not in content
+            if (b"[<a href='function.main'>function.main</a>" not in content
 
                 and "[<a href='function.include'>function.include</a>" not in content
 
