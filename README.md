@@ -5,6 +5,8 @@
 
 # LFI Suite
 
+**[UPDATED TO BE COMPATIBLE WITH PYTHON3]**
+
 ![alt tag](https://github.com/D35m0nd142/LFISuite/blob/master/screen.png)
 
 <h3> What is LFI Suite? </h3>
